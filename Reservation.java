@@ -3,7 +3,7 @@ class Airplane_Reservation{
     public static void main(String args[]){
         boolean Seat[];
         Seat = new boolean[10];
-        int i=0;
+        int i=0
         int first_class=0;
         int economic_class=5;
         int x,ch;
